@@ -1,4 +1,4 @@
-baseURL = 'http://LabVeilTech-AlisonWalpen.org/'
+baseURL = 'https://ali1609.github.io/lab_veille_blog/'
 languageCode = 'en-us'
 title = 'Branding'
 theme = "creative-portfolio"
