@@ -1,8 +1,8 @@
 +++
-image = "img/portfolio/gravity-paper.jpg"
+image = "img/AdobeStock_357723864.jpeg"
 showonlyimage = false
-date = "2016-11-05T19:44:32+05:30"
-title = "Name of the work 3"
+date = "2022-01-22T19:44:32+05:30"
+title = "Les symboles ont construit notre histoire"
 draft = false
 weight = 2
 +++

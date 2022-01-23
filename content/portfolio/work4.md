@@ -1,9 +1,9 @@
 +++
 draft = false
-image = ""
+image = "img/AdobeStock_147031316.jpeg"
 showonlyimage = false
-date = "2016-11-05T19:50:47+05:30"
-title = "Item without image"
+date = "2022-01-23T19:50:47+05:30"
+title = "La raison d'être d'une entreprise"
 weight = 4
 +++
 
