@@ -2,32 +2,30 @@
 date = "2022-01-21T19:41:01+05:30"
 title = "La culture locale, la clé d'une implantation réussie"
 draft = false
-image = "img/China.jpeg"
+image = "/lab_veille_blog/img/China.jpeg"
 showonlyimage = false
 weight = 1
 +++
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane.
+S'implanter dans un nouveau pays est un pari risqué pour une marque. Afin de réussir à toucher de nouveaux clients, il est important de s'informer sur son public cible.
 <!--more-->
+
+![Culture asiatique](/lab_veille_blog/img/China.jpeg)
+
+**Catégorie :** Phase d’implémentation de l’image de marque **Tags :** Culture, étranger, pandémie
 
 Cet article se base sur l'interview de Siu Tang rédigée par Jean Chua pour ProvokeMedia : [Creative Branding In China: How Global Brands Can Adapt To Local Culture](https://www.provokemedia.com/latest/article/creative-branding-in-china-how-global-brands-can-adapt-to-local-culture).
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+## Le public cible avant tout
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+Lorsqu’on travaille pour une marque qui est d’une culture différente de la nôtre, il est primordial de s’informer et connaître en profondeur la culture en question et ses nuances. Si une entreprise veut se développer à l’international, il lui faut une équipe pour l’Est du monde et une pour l’Ouest. Il est bon d’avoir de la diversité dans les équipes créatives. Les équipes multiculturelles sont plus riches, mais également plus complexes à manager. Il est donc essentiel, afin que cela soit optimal, d’avoir du respect pour chacun et de beaucoup communiquer. Un des points importants dans toute stratégie est d’axer ses actions en fonction du public que l’on veut toucher. Les marques doivent donc modifier leurs messages suivant la cible à atteindre.
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+## Ce que la pandémie a engendré
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+La pandémie a fait ressortir plusieurs problèmes qui auraient pu rester encore cachés un moment. Elle a accéléré certains changements qui commençaient gentiment à apparaître. À cause de la pandémie, les différences de culture entre les pays vont tendre à augmenter. En cette période où les gens ne peuvent plus beaucoup sortir de chez eux ou aller faire leurs achats dans les pays voisins, les achats en ligne explosent. Néanmoins, la poste est submergée et les temps de livraison sont parfois très longs. Les marques se concentrent alors à mieux cibler le public aux endroits où ils sont déjà établis afin de gagner en clientèle. La Chine est un pays avec une importante population et deviendra une cible très intéressante lorsque les frontières se rouvriront. Les marques essaieront de s’y installer pour augmenter leurs ventes. Malheureusement, beaucoup s’y casseront les dents si elles n’ajustent pas leur stratégie marketing. 
 
-## Header Level 2
+## Ce que cet article m'a apporté
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+J'ai trouvé cet article intéressant. Néanmoins, à part rappeler des points essentiels de la mise en place d'une stratégie, comme le fait de construire sa stratégie en fonction du public que l'on veut toucher, j'ai trouvé qu'il n'apportait pas assez de clés afin de faire de la bonne communication à l'étranger. Je ne pense pas utiliser les choses que j'ai apprises dans les premiers paragraphes de l'article, car je ne tends pas forcément à faire de la communication à l'international lors de mes premières années de carrière.
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+La deuxième partie de l'interview me sera plus utile, sachant que la pandémie risque de durer. Nous allons nous lancer sur le monde du travail en devant prendre en compte les changements occasionnés par cette pandémie. Ces conseils et faits me seront profitables même un peu après la fin de cette pandémie.

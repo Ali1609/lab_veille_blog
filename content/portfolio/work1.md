@@ -1,7 +1,7 @@
 +++
 showonlyimage = false
 draft = false
-image = "img/AdobeStock_267634116.jpeg"
+image = "/lab_veille_blog/img/SocialMedia.jpeg"
 date = "2022-01-22T18:25:22+05:30"
 title = "Manager une marque au temps des réseaux sociaux"
 weight = 0
@@ -9,6 +9,10 @@ weight = 0
 
 À l’ère des réseaux sociaux, le Branding devient un challenge. Les médias sociaux ont modifié la façon dont notre société fonctionne. Il faut donc repenser notre manière de vendre les marques.
 <!--more-->
+
+![Social média](/lab_veille_blog/img/SocialMedia.jpeg)
+
+**Catégorie :** Phase de consolidation de l’image de marque **Tags :** Réseaux sociaux, contenu, culture
 
 Cet article se base sur le texte de Douglas Holt pour le magazine Harvard Business Review : [Branding in the age of Social Media](https://hbr.org/2016/03/branding-in-the-age-of-social-media).
 
